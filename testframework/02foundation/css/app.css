@@ -1,0 +1,82 @@
+.fondo
+{
+  background-image: url(../img/fondo.jpg);
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+}
+.container
+{
+  background-color: rgba(123,17,220,0.3);
+  margin-left: 15%;
+  margin-right: 15%;
+}
+.fi-magnifying-glass
+{
+  margin-right: 0px;
+  font-size: 40px;
+  color: #ff0066;
+}
+hr
+{
+  padding-bottom: 5px;
+}
+.navegation
+{
+  height: 670px;
+}
+.ln
+{
+  padding: 5px;
+  margin: 5px;
+  color: #ff0066;
+}
+.relleno
+{
+  background-color: rgba(164,185,248,0.9);
+}
+.relleno2
+{
+  background-color: rgba(248,164,227,0.8);
+}
+.img-logo
+{
+  width: 80px;
+}
+img
+{
+  width: 400px;
+}
+.button-group
+{
+  padding: 0px;
+  margin: 0px;
+}
+.button
+{
+  background-color: rgba(164,185,248,0.5);
+  border-color: #ff0066;
+  color: #ff0066;
+}
+.img-conten
+{
+  height: 100%;
+  width: 100%;
+}
+.fi-torso
+{
+  font-size: 30px;
+}
+.comentario
+{
+  background-color: none;
+}
+.button2
+{
+  background-color: pink;
+  border: 1px solid pink;
+}
+.fi-torso
+{
+  font-size: 25px;
+}
